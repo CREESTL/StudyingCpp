@@ -1,0 +1,1 @@
+void score_2();
