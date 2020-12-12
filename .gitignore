@@ -48,3 +48,9 @@ Chapter_2/.vs/Chapter_2/v15/.suo
 *.idb
 *.sln
 Chapter_3/.vs/Chapter_3/v15/.suo
+Chapter_2/.vs/Chapter_2/v16/.suo
+Chapter_3/.vs/Chapter_3/v16/.suo
+*.db-shm
+*.db-wal
+*.recipe
+*.txt
